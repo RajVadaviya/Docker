@@ -232,3 +232,4 @@ docker push <username>/<docker-hub-repo-name>:latest
 Thank you for checking out this project.
 
 This project is part of my Cloud and DevOps learning journey 🚀
+
